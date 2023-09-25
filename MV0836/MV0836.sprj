@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <Iso639Code />
-  <transcriptionFont>Segoe UI, 36, Regular</transcriptionFont>
-  <freeTranslationFont>Segoe UI, 36, Regular</freeTranslationFont>
+  <transcriptionFont>Monlam Uni OuChan5, 14.25, Regular</transcriptionFont>
+  <freeTranslationFont>Monlam Uni OuChan5, 14.25, Regular</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0836</Title>
   <FundingProjectTitle />
   <ProjectDescription />
   <VernacularISO3CodeAndName />
+  <AnalysisISO3CodeAndName>eng: English</AnalysisISO3CodeAndName>
   <Location />
   <Region />
   <Country>Unspecified</Country>
